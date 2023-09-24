@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/ec9bc5038601821f2eb84.jpg">
+    src="https://telegra.ph/file/ec9bc5038601821f2eb84.jpg">
   </a>
 </p>
    
@@ -19,7 +19,7 @@
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
-href="https://chat.whatsapp.com/CiqdwyiDV9eCR3xLe0Ttvi" target="_blank">
+href="https://chat.whatsapp.com/LpUs14a3sDrFE0G5RPbxYc" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
