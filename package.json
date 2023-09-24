@@ -1,15 +1,15 @@
 {
-               "name": "suhail-md",
-               "version": "1.2.2",
-               "description": "Multi device whatsapp bot by SuhailTechInfo.",
+               "name": "HAKI-MD",
+               "version": "1.0.0",
+               "description": "Multi device whatsapp bot by haki.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Suhail-Md",
-                "stop": "pm2 stop Suhail-Md"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Haki-md",
+                "stop": "pm2 stop Haki-md"
                 },
-               "author": "SuhailTechInfo",
+               "author": "HAKI",
               "dependencies": {
                        "@sampandey001/baileys": "latest",
                        "@adiwajshing/keyed-db": "^0.2.4",
